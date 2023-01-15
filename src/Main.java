@@ -33,6 +33,7 @@ public class Main {
         System.out.println(engineCar);
 
        // Задача 3
+
      int ludmilaPavlovna = 23;
      int annaSergeevna = 27;
      int ekaterinaAndreevna = 30;
@@ -41,6 +42,7 @@ public class Main {
         System.out.println("На каждого ученика рассчитано " + studentPaper + " листов бумаги");
 
         // Задача 4
+
         int oneMinPerformance = 16/2;
         int twentyMinPerformance = oneMinPerformance * 20;
         System.out.println("За за 20 минут машина произвела " + twentyMinPerformance + " штук бутылок");
@@ -52,6 +54,7 @@ public class Main {
         System.out.println("За 1 месяц машина произвела " + oneMonthPerformance + " штук бутылок");
 
         //Задача 5
+
         byte whiteOneClass = 2;
         byte brownOneClass = 4;
         int oneClassroom = whiteOneClass + brownOneClass;
@@ -61,6 +64,7 @@ public class Main {
         System.out.println( "В школе, где " +  allClassroom + " классов, нужно " + allWhite + " банок белой краски и " + allBrown + " банок коричневой краски");
 
         // Задача 6
+
         short oneBanana = 80;
         int bananaBreakfast = 5 * oneBanana;
         short milk100ml = 105;
@@ -74,6 +78,7 @@ public class Main {
         System.out.println("Вес спортзавтрака " + allBreakfastGr + " граммов или " + allBreakfastKg + " килограмм");
 
         // Задача 7
+
         int excessWeight = 7000;
         int firstDiet = 250;
         int secondDiet = 500;
@@ -86,6 +91,7 @@ public class Main {
 
 
          // Задача 8
+
         int mashaSalary = 67760;
         int mashaYearSalary = mashaSalary * 12;
         int mashaNewSalary = mashaSalary + (mashaSalary / 100 * 10);
